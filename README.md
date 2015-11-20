@@ -1,4 +1,4 @@
 # 2048python
-Version of Game 2848 made with PyGame in Python
+Version of 2848 Game made with PyGame in Python
 
 #Licence
